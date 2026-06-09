@@ -20,6 +20,7 @@ Python | REST API | OpenWeatherMap API | Requests Library
 4. Enter any city name!
 
 ## Sample Output
+```
 ===================================
   Weather Report: Bangalore, IN
 ===================================
@@ -29,3 +30,4 @@ Python | REST API | OpenWeatherMap API | Requests Library
   Wind Speed   : 17 m/s
   Condition    : Overcast Clouds
 ===================================
+```
